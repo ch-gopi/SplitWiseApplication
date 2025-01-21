@@ -29,11 +29,11 @@ Note: All tests will be performed in one go. The application doesn't need to per
 
 Register vinsmokesanji 003 namisswwaann
 
-> u1 is registering with the username "vinsmokesanji", phone "003" and password as "namisswwaann"
+> u1 is registering with the username "vin", phone "003" and password as "waann"
 -- --
 u1 UpdateProfile robinchwan
 
-> u1 is updating their profile password to "robinchwan"
+> u1 is updating their profile password to "chwan"
 -- --
 u1 AddGroup Roommates
 
